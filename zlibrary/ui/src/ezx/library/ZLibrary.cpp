@@ -17,7 +17,7 @@
  * 02110-1301, USA.
  */
 
-#include <zapplication.h>
+#include <ZApplication.h>
 
 #include <ZLApplication.h>
 #include <ZLibrary.h>
